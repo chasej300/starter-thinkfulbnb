@@ -36,7 +36,7 @@ section.alternate-background {
   color: #fff;
 }
 
-main img {
+img {
   width: 100%;
   margin-bottom: 5%;
 }
@@ -183,15 +183,8 @@ footer p {
     gap: 10px;
   }
 
-  #about div img {
-    display: flex;
-    flex: 1;
-  }
-
-  #about div p {
-    display: flex;
-    align-content: center;
-    flex: 2;
+  #about img {
+    width: 50%;
   }
 
   #ideas #top, #ideas #bottom {
@@ -217,7 +210,7 @@ footer p {
     color: #fff;
   }
 
-  main img {
+  img {
     width: 100%;
   }
 
