@@ -67,7 +67,7 @@ header {
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 350%;
   color: #fff;
 }
 
@@ -222,7 +222,7 @@ footer p {
   }
 
   .item-double {
-    flex: 2;
+    flex: 3;
   }
 
   /* -------  Navigation ------- */
